@@ -1,5 +1,8 @@
 # AdMob
-google.com, pub-SEU_ID, DIRECT, f08c47fec0942fa0
+google.com, pub-4612925515848375, DIRECT, f08c47fec0942fa0
+
+#Liftoff Ads
+vungle.com, 6a10d744a3ccf593079f3a63, DIRECT, c107d686becd2d77
 
 # Unity Ads
 unity.com, 124137220, DIRECT, 96cabb5fbdde37a7
